@@ -1,8 +1,8 @@
 # AWS-Sage-Maker-Workshop
 
-These are some sage maker hands-on Lab I successfully completed in the workshop
-* [sagemaker] (https://sagemaker-workshop.com/) – AWS sagemaker
-## The workshop &copy; 2018
+These are some Sage Maker hands-on Lab I successfully completed in the workshop
+* [sagemaker](https://sagemaker-workshop.com/) – AWS sagemaker
+## The workshop is  &copy; 2018
 
 * Doing the labs in 2020 is Great, **Note** that some UI have changed.
 * I **highly recommend** it for Junior to Mid-level developers new to machine learning on **AWS**.
